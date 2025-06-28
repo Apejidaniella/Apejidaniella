@@ -1,3 +1,4 @@
+![Daniella Apeji Banner](./assets/Daniella-banner.png)
 
 
 I'm an aspiring Front-End Developer passionate about crafting user-centered designs that are not just visually appealing but also functional and accessible.
