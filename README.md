@@ -17,3 +17,6 @@ I thrive on solving real-world problems and enjoy turning complex ideas into sim
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Apejidaniella&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
