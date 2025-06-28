@@ -1,3 +1,5 @@
+
+
 I'm an aspiring Front-End Developer passionate about crafting user-centered designs that are not just visually appealing but also functional and accessible.
 
 With a background in Electrical and Electronics Engineering, I graduated among the top 5 students in my department — a reflection of my strong work ethic, dedication, and problem-solving mindset. 
