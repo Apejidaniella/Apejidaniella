@@ -27,6 +27,8 @@ I thrive on solving real-world problems and enjoy turning complex ideas into sim
 
 > 📦 2.3 kB Used in GitHub's Storage 
  > 
+> 🏆 15 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -60,16 +62,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+MyFirstProject           4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -85,5 +87,5 @@ HTML                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Apejidaniella/Apejidaniella/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2025 18:49:11 UTC
+ Last Updated on 04/07/2025 18:48:22 UTC
 <!--END_SECTION:waka-->
