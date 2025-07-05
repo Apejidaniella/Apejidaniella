@@ -19,15 +19,13 @@ I thrive on solving real-world problems and enjoy turning complex ideas into sim
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.3 kB Used in GitHub's Storage 
- > 
-> 🏆 15 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,5 +85,5 @@ HTML                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Apejidaniella/Apejidaniella/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2025 18:48:22 UTC
+ Last Updated on 05/07/2025 18:45:28 UTC
 <!--END_SECTION:waka-->
