@@ -19,7 +19,7 @@ I thrive on solving real-world problems and enjoy turning complex ideas into sim
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
@@ -27,32 +27,30 @@ I thrive on solving real-world problems and enjoy turning complex ideas into sim
 
 > 📦 2.3 kB Used in GitHub's Storage 
  > 
-> 🏆 17 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-🌆 Daytime                1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-🌃 Evening                13 commits          ████████████████████░░░░░   81.25 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+🌆 Daytime                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+🌃 Evening                14 commits          ██████████████████░░░░░░░   70.00 % 
+🌙 Night                  3 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  3 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
 Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 14 commits          ██████████████████████░░░   87.50 % 
-Sunday                   1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Saturday                 14 commits          ██████████████████░░░░░░░   70.00 % 
+Sunday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
@@ -90,5 +88,5 @@ HTML                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Apejidaniella/Apejidaniella/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2025 18:50:16 UTC
+ Last Updated on 08/07/2025 18:51:12 UTC
 <!--END_SECTION:waka-->
